@@ -1,3 +1,5 @@
+# Project moved to https://gitlab.com/HolyDemon/redes-2/tree/master/HairSegmentation
+
 # Deep Dye Segmentation Code
 ## The Jupyter notebook doubles as a tutorial. To donwload the dataset, just uncomment the first two lines.
 
